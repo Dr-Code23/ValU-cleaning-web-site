@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,700;1,400&display=swap');
+
+.mylogin{
+    margin-left: 215px;
+    margin-top: -144px;
+    width: 143px;
+    border: 2px solid #519f10;
+    cursor: pointer;
+    border-radius: 9px;
+    height: 41px;
+    font-size: 15px;
+    font-weight: 800;
+
+}
+
+.mylogin:hover{
+    background-color: transparent;
+    color: #000;
+    border: 1px solid #000;
+}
+
+.logo {
+    margin: 19px 0 0;
+}
+
+.slider-content h1{
+    margin:0
+}
+
+.my{
+ border-bottom: 1px solid black;
+ width: 50px;   
+ font-family: 'Oswald', sans-serif;
+
+}
+
+.ps-product__variants owl-carousel owl-theme owl-loaded{
+    display: none;
+}
+.ps-product:hover .full {
+    visibility: visible;
+    opacity: 1;
+    /* height: 218px; */
+    margin-top: -90px;
+}
+/* .product-img img {
+    width: 50%;
+    border-radius: 100px 100px 100px 100px;
+}
+.product-img{
+    border: 0;
+} */

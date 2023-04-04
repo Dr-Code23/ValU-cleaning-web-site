@@ -1,0 +1,17 @@
+label.star[_ngcontent-jkh-c298]:before {
+    content: "\f006";
+    font-family: FontAwesome;
+    font-size: 20px !important;
+}
+
+#rating{
+    font-size: 5px;
+}
+
+
+
+label.star[_ngcontent-hxb-c298]:before {
+    content: "\f006";
+    font-family: FontAwesome;
+    font-size: 11px !important;
+}
